@@ -21,3 +21,7 @@ Je me suis inspiré d'un image que j'ai prise qui se trouve dans le dossier Dawn
 Merci au site https://processing.org/reference Pour m'avoir aidé lors de ce projet 
 ainsi que des forums en ligne et des camarades d'Imac 1.
 
+![Alt text](Dawn_or_Dusk/Image1.png)
+![Alt text](Dawn_or_Dusk/Image2.png)
+![Alt text](Dawn_or_Dusk/Image3.png)
+
