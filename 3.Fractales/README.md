@@ -20,6 +20,6 @@ https://processing.org/reference/libraries/sound/index.html
 Merci au site https://processing.org/reference Pour m'avoir aidé lors de ce projet, The Coding Train sur YouTube, Wikipedia
 ainsi que des forums en ligne et des camarades d'Imac 1.
 
-![Alt text](Fougere_de_Barnsley/image1.png)
-![Alt text](Fougere_de_Barnsley/image2.png)
+![Alt text](Fougere_de_Barnsley/Image1.png)
+![Alt text](Fougere_de_Barnsley/Image2.png)
 
