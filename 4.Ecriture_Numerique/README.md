@@ -1,4 +1,4 @@
-Voici me rendu de mon troisième jour d'Esthétique & Algorithmique !
+Voici me rendu de mon quatrième jour d'Esthétique & Algorithmique !
 
 - Le dossier KaraokeSimulator contient mon exploration personnelle.
 J'ai créé ma propre version du karaoke. Plusieurs structures de phrases sont générées afin d'avoir une chanson générée et chantable en direct.
